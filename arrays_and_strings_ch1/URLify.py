@@ -1,5 +1,3 @@
-
-
 def replace_spaces(url, true_length):
     format_url = ""
     for i in range(true_length):
